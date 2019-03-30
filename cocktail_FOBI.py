@@ -99,3 +99,5 @@ plt.plot(time, orig2, color='k')
 plt.ylabel('Amplitude')
 plt.xlabel('Time (ms)')
 plt.title("Original signal 2")
+plt.show()
+
