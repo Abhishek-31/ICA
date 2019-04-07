@@ -25,7 +25,7 @@ im2 = im2 - np.mean(im2)
 # Output information about the image dimensions.
 a = im1.shape
 n = a[0]
-print "Number of samples: ", n
+print("Number of samples: ", n)
 n = n * 1.0
 
 time = np.arange(0, n, 1)
